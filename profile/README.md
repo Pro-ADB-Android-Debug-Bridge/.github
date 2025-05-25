@@ -84,13 +84,15 @@ After downloading, simply open the `.exe` file to launch the tool. No installati
 
 ---
 
-### 🖼 Preview
+🖼 Preview
 
-**1. Screenshot One**
-&#x20;*Command-line usage of ADB to list devices and interact.*(https://miro.medium.com/v2/resize:fit:1400/0*qrjMhoKAg-OMx7zg.jpg)
 
-**2. Screenshot Two**
-&#x20;*USB Debugging prompt on Android device.*(https://proxyman.com/assets/blog/android-debug-bridge-proxyman/android-debug-bridge-0.png)
+![Preview 1](https://miro.medium.com/v2/resize:fit:1400/0*qrjMhoKAg-OMx7zg.jpg)
+
+
+![Preview 2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaD01Le6MG1P0B7kf8YDXr-wGBytTyAg-WuA&s)
+
+
 
 ---
 
