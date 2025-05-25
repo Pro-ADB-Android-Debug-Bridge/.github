@@ -4,7 +4,6 @@
 [![Download ADB](https://img.shields.io/badge/Download-ADB-blueviolet)]()
 
 
-
 
 > 💡 **Tip:** ADB requires USB debugging to be enabled on the connected Android device.
 
@@ -88,10 +87,10 @@ After downloading, simply open the `.exe` file to launch the tool. No installati
 ### 🖼 Preview
 
 **1. Screenshot One**
-&#x20;*Command-line usage of ADB to list devices and interact.*
+&#x20;*Command-line usage of ADB to list devices and interact.*(https://miro.medium.com/v2/resize:fit:1400/0*qrjMhoKAg-OMx7zg.jpg)
 
 **2. Screenshot Two**
-&#x20;*USB Debugging prompt on Android device.*
+&#x20;*USB Debugging prompt on Android device.*(https://proxyman.com/assets/blog/android-debug-bridge-proxyman/android-debug-bridge-0.png)
 
 ---
 
