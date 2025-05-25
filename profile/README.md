@@ -90,7 +90,7 @@ After downloading, simply open the `.exe` file to launch the tool. No installati
 ![Preview 1](https://miro.medium.com/v2/resize:fit:1400/0*qrjMhoKAg-OMx7zg.jpg)
 
 
-![Preview 2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaD01Le6MG1P0B7kf8YDXr-wGBytTyAg-WuA&s)
+![Preview 2](https://koenig-media.raywenderlich.com/uploads/2019/01/advanced_adb_5.png)
 
 
 
